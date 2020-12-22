@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fa0dab5374a7614d5c6859a182a1c89d.js"
+  "/precache-manifest.852ccaa4544146c455907899033e59a5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "warrior_app"});
